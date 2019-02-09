@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1549742564">
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BG-DRC" Name="physical_mapping.drc"/>
+  <File Type="BG-BGN" Name="physical_mapping.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="physical_mapping.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="physical_mapping.ltx"/>
+  <File Type="BITSTR-MMI" Name="physical_mapping.mmi"/>
+  <File Type="BITSTR-BMM" Name="physical_mapping_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="physical_mapping.nky"/>
+  <File Type="BITSTR-RBT" Name="physical_mapping.rbt"/>
+  <File Type="BITSTR-MSK" Name="physical_mapping.msk"/>
+  <File Type="BG-BIN" Name="physical_mapping.bin"/>
+  <File Type="BG-BIT" Name="physical_mapping.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="physical_mapping_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="physical_mapping_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="physical_mapping_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="physical_mapping_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="physical_mapping_postroute_physopt.dcp"/>
+  <File Type="ROUTE-CLK" Name="physical_mapping_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="physical_mapping_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="physical_mapping_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="physical_mapping_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="physical_mapping_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="physical_mapping_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="physical_mapping_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="physical_mapping_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="physical_mapping_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="physical_mapping_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="physical_mapping_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="physical_mapping_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="physical_mapping_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="physical_mapping_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="physical_mapping_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="physical_mapping_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="physical_mapping_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="physical_mapping_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="physical_mapping_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="physical_mapping_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="physical_mapping_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="physical_mapping_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="physical_mapping_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="physical_mapping_postplace_pwropt.dcp"/>
+  <File Type="PLACE-TIMING" Name="physical_mapping_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="physical_mapping_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="physical_mapping_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="physical_mapping_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="physical_mapping_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="physical_mapping_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="physical_mapping_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="physical_mapping_io_placed.rpt"/>
+  <File Type="RDI-RDI" Name="physical_mapping.vdi"/>
+  <File Type="PWROPT-TIMING" Name="physical_mapping_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="physical_mapping_drc_pwropted.rpt"/>
+  <File Type="OPT-TIMING" Name="physical_mapping_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="physical_mapping.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="physical_mapping_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="physical_mapping_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="physical_mapping_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="physical_mapping_timing_summary_init.rpt"/>
+  <File Type="PWROPT-DCP" Name="physical_mapping_pwropt.dcp"/>
+  <File Type="REPORTS-TCL" Name="physical_mapping_reports.tcl"/>
+  <File Type="PLACE-DCP" Name="physical_mapping_placed.dcp"/>
+  <File Type="PA-TCL" Name="physical_mapping.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../tmp/2.9.1Gate-level greater-than.srcs/sources_1/new/greater_than_block2bits.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../tmp/2.9.1Gate-level greater-than.srcs/sources_1/new/greater_than_block4bits.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/physical_mapping.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/greater_than_block2bits.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="physical_mapping"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../../../../media/mdomingu/307F-E4C6/Marc/FPGA/Digilent/Constraints/Nexys-A7-100T-Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2017"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

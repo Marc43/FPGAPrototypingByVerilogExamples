@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:07 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Sat Feb  9 21:02:46 2019
+# Process ID: 1189
+# Current directory: /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.1Gate_level_greater_than/2.9.1Gate_level_greater_than.runs/synth_1
+# Command line: vivado -log physical_mapping.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source physical_mapping.tcl
+# Log file: /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.1Gate_level_greater_than/2.9.1Gate_level_greater_than.runs/synth_1/physical_mapping.vds
+# Journal file: /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.1Gate_level_greater_than/2.9.1Gate_level_greater_than.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source physical_mapping.tcl -notrace

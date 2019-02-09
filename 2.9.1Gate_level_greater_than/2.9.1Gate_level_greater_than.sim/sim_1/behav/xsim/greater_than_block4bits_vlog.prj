@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../tmp/2.9.1Gate-level greater-than.srcs/sources_1/new/greater-than-block2bits.v" \
+"../../../../../tmp/2.9.1Gate-level greater-than.srcs/sources_1/new/greater_than_block4bits.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,7 @@
+Running: xsim.dir/greater_than_block4bits_behav/xsimk -simmode gui -wdb greater_than_block4bits_behav.wdb -simrunnum 0 -socket 58933
+Design successfully loaded
+Design Loading Memory Usage: 48012 KB (Peak: 48068 KB)
+Design Loading CPU Usage: 40 ms
+Simulation completed
+Simulation Memory Usage: 129748 KB (Peak: 195284 KB)
+Simulation CPU Usage: 40 ms
