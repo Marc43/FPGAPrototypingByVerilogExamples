@@ -4,6 +4,6 @@ Oct  4 2017
 20:01:51
 /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.sim/sim_1/behav/xsim/glbl.v,1507081072,verilog,,,,glbl,,,,,,,,
 /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.srcs/sim_1/new/testbech2_4decoder.v,1549802611,verilog,,,,testbech2_4decoder,,,,,,,,
-/home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.srcs/sim_1/new/testbench3_8decoder.v,1549805145,verilog,,,,testbench3_8decoder,,,,,,,,
+/home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.srcs/sim_1/new/testbench3_8decoder.v,1549810135,verilog,,,,testbench3_8decoder,,,,,,,,
 /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.srcs/sources_1/new/decoder2_4block.v,1549802864,verilog,,/home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.srcs/sources_1/new/decoder3_8block.v,,decoder2_4block,,,,,,,,
 /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.srcs/sources_1/new/decoder3_8block.v,1549804750,verilog,,/home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.srcs/sim_1/new/testbench3_8decoder.v,,decoder3_8block,,,,,,,,

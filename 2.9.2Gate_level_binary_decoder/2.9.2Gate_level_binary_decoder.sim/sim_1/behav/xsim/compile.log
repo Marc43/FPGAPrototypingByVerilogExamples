@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.srcs/sources_1/new/decoder2_4block.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder2_4block
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.srcs/sources_1/new/decoder3_8block.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder3_8block
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.srcs/sim_1/new/testbench3_8decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench3_8decoder
