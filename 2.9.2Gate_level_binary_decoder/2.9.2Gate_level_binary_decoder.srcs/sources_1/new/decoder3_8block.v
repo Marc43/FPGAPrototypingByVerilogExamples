@@ -27,10 +27,15 @@ module decoder3_8block(
     );
     
     wire [7:0] b_tmp;
+    wire enable_0, enable_1;
     
-    decoder2_4block MSB_decoder_2_4 (.a(a[1:0]), .enable(~a[2]), .b(b_tmp[3:0]));
-    decoder2_4block LSB_decoder_2_4 (.a(a[1:0]), .enable( a[2]), .b(b_tmp[7:4]));
+    assign enable_0 = ~a[2] & enable;
+    assign enable_1 =  a[2] & enable;
     
+    decoder2_4block MSB_decoder_2_4 (.a(a[1:0]), .enable(enable_0), .b(b_tmp[3:0]));
+    decoder2_4block LSB_decoder_2_4 (.a(a[1:0]), .enable(enable_1), .b(b_tmp[7:4]));
     
+    assign b[7:4] = b_tmp[7:4];
+    assign b[3:0] = b_tmp[3:0];
     
 endmodule

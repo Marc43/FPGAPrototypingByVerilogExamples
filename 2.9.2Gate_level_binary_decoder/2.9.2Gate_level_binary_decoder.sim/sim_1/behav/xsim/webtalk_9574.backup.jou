@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:07 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Sun Feb 10 13:41:26 2019
+# Process ID: 9574
+# Current directory: /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.sim/sim_1/behav/xsim/xsim.dir/decoder3_8block_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/mdomingu/FPGAPrototypingByVerilogExamples/2.9.2Gate_level_binary_decoder/2.9.2Gate_level_binary_decoder.sim/sim_1/behav/xsim/xsim.dir/decoder3_8block_behav/webtalk/xsim_webtalk.tcl -notrace

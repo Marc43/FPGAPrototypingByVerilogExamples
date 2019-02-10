@@ -27,8 +27,8 @@ module decoder2_4block(
     );
     
     assign b[0] = ~a[0] & ~a[1] & enable;
-    assign b[1] = ~a[0] &  a[1] & enable;
-    assign b[2] =  a[0] & ~a[1] & enable;
+    assign b[1] =  a[0] & ~a[1] & enable;
+    assign b[2] = ~a[0] &  a[1] & enable;
     assign b[3] =  a[0] &  a[1] & enable; 
     
 endmodule
