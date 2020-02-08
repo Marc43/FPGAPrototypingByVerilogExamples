@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1581164805">
+  <File Type="BITSTR-BMM" Name="hex_to_sseg_LED_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="hex_to_sseg_LED_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="hex_to_sseg_LED_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="hex_to_sseg_LED_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="hex_to_sseg_LED.tcl"/>
+  <File Type="OPT-TIMING" Name="hex_to_sseg_LED_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="hex_to_sseg_LED_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="hex_to_sseg_LED_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="hex_to_sseg_LED_reports.tcl"/>
+  <File Type="OPT-DRC" Name="hex_to_sseg_LED_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="hex_to_sseg_LED.hwdef"/>
+  <File Type="PWROPT-DCP" Name="hex_to_sseg_LED_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="hex_to_sseg_LED_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="hex_to_sseg_LED_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="hex_to_sseg_LED_placed.dcp"/>
+  <File Type="PLACE-IO" Name="hex_to_sseg_LED_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="hex_to_sseg_LED_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="hex_to_sseg_LED_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="hex_to_sseg_LED_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="hex_to_sseg_LED_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="hex_to_sseg_LED_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="hex_to_sseg_LED_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="hex_to_sseg_LED_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="hex_to_sseg_LED_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="hex_to_sseg_LED.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="hex_to_sseg_LED_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="hex_to_sseg_LED_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="hex_to_sseg_LED_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="hex_to_sseg_LED.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="hex_to_sseg_LED_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="hex_to_sseg_LED_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="hex_to_sseg_LED_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="hex_to_sseg_LED_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="hex_to_sseg_LED_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="hex_to_sseg_LED_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="hex_to_sseg_LED_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="hex_to_sseg_LED.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="hex_to_sseg_LED_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="hex_to_sseg_LED_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="hex_to_sseg_LED_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="hex_to_sseg_LED_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="hex_to_sseg_LED_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="hex_to_sseg_LED_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="hex_to_sseg_LED_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="hex_to_sseg_LED_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="hex_to_sseg_LED_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="hex_to_sseg_LED_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="hex_to_sseg_LED_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="hex_to_sseg_LED_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="hex_to_sseg_LED_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="hex_to_sseg_LED_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="hex_to_sseg_LED_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="hex_to_sseg_LED_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="hex_to_sseg_LED_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="hex_to_sseg_LED_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="hex_to_sseg_LED_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="hex_to_sseg_LED_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="hex_to_sseg_LED_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="hex_to_sseg_LED.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="hex_to_sseg_LED_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="hex_to_sseg_LED.rbt"/>
+  <File Type="BITSTR-NKY" Name="hex_to_sseg_LED.nky"/>
+  <File Type="PDI-FILE" Name="hex_to_sseg_LED.pdi"/>
+  <File Type="RCFI_FILE" Name="hex_to_sseg_LED.rcfi"/>
+  <File Type="CFI_FILE" Name="hex_to_sseg_LED.cfi"/>
+  <File Type="RNPI_FILE" Name="hex_to_sseg_LED.rnpi"/>
+  <File Type="NPI_FILE" Name="hex_to_sseg_LED.npi"/>
+  <File Type="RBD_FILE" Name="hex_to_sseg_LED.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="hex_to_sseg_LED.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="hex_to_sseg_LED.sysdef"/>
+  <File Type="BG-BGN" Name="hex_to_sseg_LED.bgn"/>
+  <File Type="BG-DRC" Name="hex_to_sseg_LED.drc"/>
+  <File Type="RDI-RDI" Name="hex_to_sseg_LED.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/hex_to_sseg_LED.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="hex_to_sseg_LED"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../../../../Desktop/NexysA7/digilent-xdc-master/Nexys-A7-100T-Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2017">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
