@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Feb  8 13:26:47 2020
+# Process ID: 5592
+# Current directory: C:/Users/Marc/Documents/GitHub/FPGAPrototypingByVerilogExamples/3.9.1Hexadecimal_to_sseg_LED/3.9.1Hexadecimal_to_sseg_LED.runs/synth_1
+# Command line: vivado.exe -log hex_to_sseg_LED.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source hex_to_sseg_LED.tcl
+# Log file: C:/Users/Marc/Documents/GitHub/FPGAPrototypingByVerilogExamples/3.9.1Hexadecimal_to_sseg_LED/3.9.1Hexadecimal_to_sseg_LED.runs/synth_1/hex_to_sseg_LED.vds
+# Journal file: C:/Users/Marc/Documents/GitHub/FPGAPrototypingByVerilogExamples/3.9.1Hexadecimal_to_sseg_LED/3.9.1Hexadecimal_to_sseg_LED.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source hex_to_sseg_LED.tcl -notrace
