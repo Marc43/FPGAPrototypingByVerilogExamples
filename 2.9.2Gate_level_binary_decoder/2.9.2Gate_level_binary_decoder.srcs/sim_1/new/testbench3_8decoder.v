@@ -32,26 +32,26 @@ module testbench3_8decoder;
 initial
 begin
 
-    enable = 2'b1;
-    test_a = 2'b000;
-    # 200;
-    test_a = 2'b001;
-    # 200;
-    test_a = 2'b010;
-    # 200;
-    test_a = 2'b011;
-    # 200;
-    test_a = 2'b100;
-    # 200;
-    test_a = 2'b101;
-    # 200;
-    test_a = 2'b110;
-    # 200;
-    test_a = 2'b111;
-    # 200;
-    test_a = 2'b101;
-    enable = 2'b0;
-    #200;
+    enable = 1'b1;
+    test_a = 3'b000;
+    # 400;
+    test_a = 3'b001;
+    # 400;
+    test_a = 3'b010;
+    # 400;
+    test_a = 3'b011;
+    # 400;
+    test_a = 3'b100;
+    # 400;
+    test_a = 3'b101;
+    # 400;
+    test_a = 3'b110;
+    # 400;
+    test_a = 3'b111;
+    # 400;
+    test_a = 3'b101;
+    enable = 1'b0;
+    # 400;
 
     $stop;
 end
